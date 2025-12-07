@@ -19,13 +19,14 @@ A star-schema dimensional model (facts and dimensions) forms the foundation of t
 -  Scope: Focus on the latest only; historization of data no required.
 -  Documentation: Provide clear documentation of the data model to support both business and analytics teams.
 
-  Objectives
+  ###Objectives
   Develop SQL-based analytics to detailed insights into:
   - **Customer Behavior**
   - **product Performance**
   - **Sales Trends**
  
-Key Features
+###Key Features
+
 -SQL Server–based Data Warehouse following enterprise architecture standards
 -ETL pipeline with staging, cleansing, transformation, and incremental loading
 -Dimensional modeling (facts, dimensions, SCD Type, surrogate key logic)
@@ -33,4 +34,6 @@ Key Features
 -Performance optimization using indexes, partitions (optional), and query tuning
 -Analytics-ready datasets for BI tools like Power BI or Tableau
 -Clear folder structure for code, docs, and deployment scripts**
--These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
+
+These insights empower stakeholders with key business metrics, enabling strategic decision-making.
