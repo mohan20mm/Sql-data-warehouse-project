@@ -101,10 +101,25 @@ This project is an excellent resource for:
 ---
 
 * [Datasets](https://github.com/mohan20mm/Sql-data-warehouse-project/tree/71b960912210dabc26469f5ecb195f75c788cc8e/datasets): Access to the project dataset (csv files).
-* Data Architects
-* ETL Developers
-* SQL Developers
-* Data Analysts
-* Students building real-world data engineering portfolios
+* [SQL Server Express](https://www.microsoft.com/en-in/sql-server/sql-server-downloads): Lightweight server for hosting your SQL database.
+* [SQL Server Management Studio](https://learn.microsoft.com/en-us/ssms/install/install): GUI for managing and interacting with databases.
+* [Notion](https://www.notion.so/Data-Warehouse-Project-284130c3c44280deaf77e62c98af7be1?source=copy_link): Get the Project Template from Notion
+* [Draw.io](https://www.drawio.com/): Design data architecture, models, flows, and diagrams.
+* [GIT Repository](https://github.com/git/git): Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+---
+\🚀 Project Requirements
+Building the Data Warehouse (Data Engineering)
+Objective
+Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+
+Specifications
+Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
+Data Quality: Cleanse and resolve data quality issues prior to analysis.
+Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
+Scope: Focus on the latest dataset only; historization of data is not required.
+Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams
+---
+📂 Repository Structure
+git clone --mirror <https://github.com/mohan20mm/Sql-data-warehouse-project.git>
 
 This implementation reflects real enterprise data warehouse patterns and demonstrates the ability to design, build, and maintain a scalable analytics platform from raw data to business insights.
