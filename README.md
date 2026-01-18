@@ -1,4 +1,4 @@
-📊 Data Warehouse Project – Medallion Architecture (Bronze, Silver, Gold)
+**📊 Data Warehouse Project**
 
 ### 🔍 Project Overview
 
