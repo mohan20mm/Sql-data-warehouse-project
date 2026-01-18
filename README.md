@@ -99,11 +99,12 @@ This project is an excellent resource for:
 ---
 🛠️ Important Links & Tools:
 ---
-datasets: Access to the project dataset (csv files).
-SQL Server Express: Lightweight server for hosting your SQL database.
-SQL Server Management Studio (SSMS): GUI for managing and interacting with databases.
-DrawIO: Design data architecture, models, flows, and diagrams.
-https://www.notion.so/Data-Warehouse-Project-284130c3c44280deaf77e62c98af7be1?source=copy_link: Get the Project Template from Notion
 
+* <a herf="https://github.com/mohan20mm/Sql-data-warehouse-project/tree/71b960912210dabc26469f5ecb195f75c788cc8e/datasets">Datasets</a>: Access to the project dataset (csv files).
+* Data Architects
+* ETL Developers
+* SQL Developers
+* Data Analysts
+* Students building real-world data engineering portfolios
 
 This implementation reflects real enterprise data warehouse patterns and demonstrates the ability to design, build, and maintain a scalable analytics platform from raw data to business insights.
