@@ -1,4 +1,4 @@
-**📊 Data Warehouse Project**
+<h1>📊 Data Warehouse Project</h1>
 
 ### 🔍 Project Overview
 
