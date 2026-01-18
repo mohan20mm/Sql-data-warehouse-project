@@ -100,7 +100,7 @@ This project is an excellent resource for:
 🛠️ Important Links & Tools:
 ---
 
-* <a herf="https://github.com/mohan20mm/Sql-data-warehouse-project/tree/71b960912210dabc26469f5ecb195f75c788cc8e/datasets">Datasets</a>: Access to the project dataset (csv files).
+* [Datasets](https://github.com/mohan20mm/Sql-data-warehouse-project/tree/71b960912210dabc26469f5ecb195f75c788cc8e/datasets): Access to the project dataset (csv files).
 * Data Architects
 * ETL Developers
 * SQL Developers
