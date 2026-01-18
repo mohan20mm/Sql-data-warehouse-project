@@ -7,6 +7,9 @@ This project demonstrates the design and implementation of a **modern data wareh
 The project follows industry best practices in **data engineering**, **ETL development**, and **dimensional modeling**, making it suitable for real-world enterprise use cases as well as professional portfolios.
 
 ---
+<img width="1598" height="912" alt="data_architecture" src="https://github.com/user-attachments/assets/cc1b93e3-fd03-4d88-9bc0-0d2cd1ec3a92" />
+
+---
 
 ### 🏗️ Data Architecture – Medallion Framework
 
@@ -50,7 +53,6 @@ ETL logic is implemented using **SQL-based transformations**, ensuring transpare
 
 ### 📐 Data Modeling
 
-* Dimensional modeling techniques are applied following **Kimball methodology**
 * Fact tables capture measurable business events
 * Dimension tables provide descriptive business context
 * Schema design is optimized for analytical workloads and BI tools
@@ -95,5 +97,13 @@ This project is an excellent resource for:
 * Students building real-world data engineering portfolios
 
 ---
+🛠️ Important Links & Tools:
+---
+datasets: Access to the project dataset (csv files).
+SQL Server Express: Lightweight server for hosting your SQL database.
+SQL Server Management Studio (SSMS): GUI for managing and interacting with databases.
+DrawIO: Design data architecture, models, flows, and diagrams.
+https://www.notion.so/Data-Warehouse-Project-284130c3c44280deaf77e62c98af7be1?source=copy_link: Get the Project Template from Notion
+
 
 This implementation reflects real enterprise data warehouse patterns and demonstrates the ability to design, build, and maintain a scalable analytics platform from raw data to business insights.
