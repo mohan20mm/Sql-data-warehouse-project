@@ -142,6 +142,8 @@ data-warehouse-project/
 │
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
+├── .gitignore                          # Files and directories to be ignored by Git
+└── requirements.txt                    # Dependencies and requirements for the project
 
 ---
 This implementation reflects real enterprise data warehouse patterns and demonstrates the ability to design, build, and maintain a scalable analytics platform from raw data to business insights.
